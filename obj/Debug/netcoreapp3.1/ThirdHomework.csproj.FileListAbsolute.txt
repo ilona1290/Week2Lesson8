@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\bin\Debug\netcoreapp3.1\ThirdHomework.exe
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\bin\Debug\netcoreapp3.1\ThirdHomework.deps.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\bin\Debug\netcoreapp3.1\ThirdHomework.runtimeconfig.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\bin\Debug\netcoreapp3.1\ThirdHomework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\bin\Debug\netcoreapp3.1\ThirdHomework.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\bin\Debug\netcoreapp3.1\ThirdHomework.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.AssemblyInfo.cs
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 2 - Podstawy języka C#\Prace domowe\Pętle\ThirdHomework\ThirdHomework\obj\Debug\netcoreapp3.1\ThirdHomework.genruntimeconfig.cache
